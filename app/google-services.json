@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "481259590639",
+    "project_id": "data-nova-af128",
+    "storage_bucket": "data-nova-af128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481259590639:android:8d152db1444f1abf51dc1a",
+        "android_client_info": {
+          "package_name": "com.example.datanova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481259590639-j115v47e5vffo3hp0l42sbs8h00d9jbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datanova",
+            "certificate_hash": "cdf6aa224656baddf63951334e631a514b038e32"
+          }
+        },
+        {
+          "client_id": "481259590639-sifon39vk5d8ev2pk6b02qeo6ljjvr1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm8RV6cpStxCa9DDndAINR_6djL8PAdWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481259590639-sifon39vk5d8ev2pk6b02qeo6ljjvr1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
